@@ -10,6 +10,6 @@ This section contains three blogposts:
 * _Distributed TensorFlow_ shows how to distribute the computations between multiple cores or nodes. 
 * _TensorFlow for statisticians_ is aimed at providing useful information to statisticians who are thinking to start working with TensorFlow, in the context of linear models for large datasets. 
 
-{% for post in site.posts %}
+{% for post in site.posts_sandy %}
   {% include archive-single.html %}
 {% endfor %}
