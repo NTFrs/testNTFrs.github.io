@@ -92,6 +92,7 @@ In the input function, we need to:
 * shuffle the data,
 * choose the number of times that the stochastic gradient descent algorithm is going to go through the dataset (number of epochs),
 * get a batch of data.
+
 ```
 def input_fn(data_file, num_epochs, shuffle, batch_size, buffer_size=1000):
       # Create list of file names that match "glob" pattern (i.e. data_file_*.csv)
