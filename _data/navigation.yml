@@ -9,5 +9,8 @@ main:
   - title: "Apache Spark"
     url: /apache-spark/   
     
+  - title: "Logistic regression with Apache Spark"
+    url: /apache-spark/Logistic 
+    
   - title: "Archive"
     url: /categories/
