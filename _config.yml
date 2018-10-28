@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "High performance large-scale regression"
 title_separator          : "-"
-name                     : &name "Alessandra Cabassi and Junyang Wang"
-description              : &description "Blog of Turing internship 2018."
-url                      : https://turinginternship2018.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "NTFRS"
+description              : &description "CopyBlog"
+url                      : https://testNTFrs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "turinginternship2018.github.io"
+repository               : "testNTFrs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alessandra Cabassi and Junyang Wang"
+  name             : "NTFrs"
   avatar           : ""
-  bio              : "Blog of Turing internship 2018."
+  bio              : "Test blog"
   location         :
   employer         :
   googlescholar    :
@@ -261,6 +261,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-menu
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
