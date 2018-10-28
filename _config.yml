@@ -269,6 +269,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-menu
 
 
 # Archives
